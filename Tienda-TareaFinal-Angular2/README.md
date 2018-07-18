@@ -36,3 +36,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 3. node server.js
 ## navega el puerto:
 4. Navegar en la URL: localhost:3000
+
+usuario: "rafael@gmail.com"
+contraseña "123456"
